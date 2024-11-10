@@ -1,0 +1,11 @@
+{
+    "name": "tugasmoduledanpackage",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+      "start": "node src/app.js"
+    },
+    "author": "nursantia",
+    "license": "ISC",
+    "description": "Kalkulator, Menghitung luas, Membuat kata sandi, dan rumus fisika"
+  }
